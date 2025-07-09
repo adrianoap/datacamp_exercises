@@ -48,6 +48,6 @@ def prepare_smartphone_data(file_path):
 
 
 # Call the function
-cleaned_data = prepare_smartphone_data("./data/smartphones.csv")
+cleaned_data = prepare_smartphone_data("code_review\data\smartphones.csv")
 
 print(cleaned_data)
